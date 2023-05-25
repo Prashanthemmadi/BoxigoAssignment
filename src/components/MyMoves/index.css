@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  margin-left: 10px;
+  width: 80%;
+}
+.moves-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}

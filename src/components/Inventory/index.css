@@ -1,0 +1,30 @@
+.heading {
+  font-size: 20px;
+  color: #ea5431;
+  margin-right: 10px;
+}
+.length {
+  background-color: #ea5431;
+  color: #ffffff;
+  padding: 5px;
+  border-radius: 30px;
+}
+.inventory-cart {
+  display: flex;
+  justify-content: space-between;
+  background-color: #dcddda;
+  margin-left: 1px;
+  margin-bottom: 10px;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+.in-card {
+  display: flex;
+}
+.view-btn {
+  cursor: pointer;
+  height: 20px;
+  margin-top: 20px;
+  background-color: transparent;
+  border-width: 0px;
+}

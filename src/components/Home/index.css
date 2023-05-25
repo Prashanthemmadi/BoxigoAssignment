@@ -1,0 +1,27 @@
+.moves {
+  display: flex;
+}
+.my-moves-heading {
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 1px;
+  font-family: 'Roboto';
+}
+.home {
+  padding: 10px;
+}
+.moves {
+  border-left: 4px solid red;
+  padding: 5px;
+}
+.home-headings {
+  font-size: 15px;
+  margin-top: 1px;
+  margin-left: 10px;
+  font-family: 'Roboto';
+}
+.home-details {
+  display: flex;
+  padding: 5px;
+  margin-top: 15px;
+}
